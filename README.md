@@ -1,1 +1,1 @@
-# dokument
+Strona hotelu dla psów.
